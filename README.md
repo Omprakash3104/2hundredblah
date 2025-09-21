@@ -11,10 +11,8 @@ https://github.com/user-attachments/assets/d336eed3-aa80-4e9d-a57c-cd7a96081d02
 
 
 
-# Cite
-```
 
-```
+
 
 
 # Yolov8x 
@@ -38,6 +36,7 @@ https://github.com/user-attachments/assets/d336eed3-aa80-4e9d-a57c-cd7a96081d02
 
 # RCNN
 ![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/blob/main/RCNN/Results%20of%20RCNN.png)
+
 
 
 
